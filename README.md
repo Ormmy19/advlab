@@ -1,12 +1,6 @@
-# advlab
+## Usage
 
-## Description
-Python program for downloading YouTube videos.
+Run the program with Python:
 
-## Requirements
-- Python 3.x
-- pytube (or yt-dlp)
-
-## Installation
 ```bash
-pip install pytube
+python dlyoutube.py
